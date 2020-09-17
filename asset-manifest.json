@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PassportPhotoValidator/static/css/main.41a6f8dc.chunk.css",
+    "main.js": "/PassportPhotoValidator/static/js/main.d916e37b.chunk.js",
+    "main.js.map": "/PassportPhotoValidator/static/js/main.d916e37b.chunk.js.map",
+    "runtime-main.js": "/PassportPhotoValidator/static/js/runtime-main.f72a5459.js",
+    "runtime-main.js.map": "/PassportPhotoValidator/static/js/runtime-main.f72a5459.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/PassportPhotoValidator/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c09b6a11.chunk.js": "/PassportPhotoValidator/static/js/2.c09b6a11.chunk.js",
+    "static/js/2.c09b6a11.chunk.js.map": "/PassportPhotoValidator/static/js/2.c09b6a11.chunk.js.map",
+    "index.html": "/PassportPhotoValidator/index.html",
+    "precache-manifest.51332d2c1a96beeed890a9c0cc3c3e53.js": "/PassportPhotoValidator/precache-manifest.51332d2c1a96beeed890a9c0cc3c3e53.js",
+    "service-worker.js": "/PassportPhotoValidator/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/PassportPhotoValidator/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.41a6f8dc.chunk.css.map": "/PassportPhotoValidator/static/css/main.41a6f8dc.chunk.css.map",
+    "static/js/2.c09b6a11.chunk.js.LICENSE.txt": "/PassportPhotoValidator/static/js/2.c09b6a11.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PassportPhotoValidator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f72a5459.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c09b6a11.chunk.js",
+    "static/css/main.41a6f8dc.chunk.css",
+    "static/js/main.d916e37b.chunk.js"
+  ]
+}
